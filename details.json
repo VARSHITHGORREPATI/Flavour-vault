@@ -1,0 +1,1484 @@
+{
+  "recipes": [
+    {
+      "title": "Pesarattu with Ginger Chutney",
+      "category": "Breakfast",
+      "description": "A protein-rich pancake made with green gram, served with a tangy ginger chutney.",
+      "image": "/img/gallery/pessarattu.jpg",
+      "ingredients": [
+        "1 cup green gram (moong dal)",
+        "1/4 cup rice (optional)",
+        "1 green chili",
+        "1/2 inch ginger (grated)",
+        "Salt to taste",
+        "1 tbsp oil (for frying)"
+      ],
+      "steps": [
+        "Soak green gram and rice (optional) for 4-6 hours.",
+        "Grind soaked ingredients with green chili, ginger, and salt into a smooth batter.",
+        "Heat a skillet, pour batter, and spread thinly.",
+        "Drizzle oil and cook until golden on both sides.",
+        "Serve hot with ginger chutney."
+      ],
+      "id": "3f19"
+    },
+    {
+      "title": "Upma Pesarattu",
+      "category": "Breakfast",
+      "description": "A delightful combination of upma served with protein-rich pesarattu.",
+      "image": "/img/gallery/upmap.jpg",
+      "ingredients": [
+        "1 cup green gram (moong dal)",
+        "1/4 cup rice (optional)",
+        "1 green chili",
+        "Salt to taste",
+        "Upma (cooked separately)",
+        "1 tbsp oil (for frying)"
+      ],
+      "steps": [
+        "Prepare pesarattu batter by soaking and grinding green gram, rice, and chili.",
+        "Cook upma separately and keep it aside.",
+        "Make thin pesarattu pancakes and place a portion of upma on top.",
+        "Fold the pancake and serve hot."
+      ],
+      "id": "c5f5"
+    },
+    {
+      "title": "Idli with Karivepaku Chutney",
+      "category": "Breakfast",
+      "description": "Steamed rice cakes paired with flavorful curry leaf chutney.",
+      "image": "/img/gallery/idly.jpg",
+      "ingredients": [
+        "2 cups idli batter",
+        "1/2 cup curry leaves",
+        "2 green chilies",
+        "1/4 cup grated coconut",
+        "1 tbsp tamarind paste",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Steam the idlis using the batter.",
+        "For chutney, blend curry leaves, chilies, coconut, tamarind, and salt into a smooth paste.",
+        "Serve the idlis with karivepaku chutney."
+      ],
+      "id": "ea62"
+    },
+    {
+      "title": "Andhra-style Dosa with Peanut Chutney",
+      "category": "Breakfast",
+      "description": "Crispy dosa served with creamy peanut chutney.",
+      "image": "/img/gallery/dosa.jpg",
+      "ingredients": [
+        "2 cups dosa batter",
+        "1/2 cup roasted peanuts",
+        "1 green chili",
+        "1/4 cup grated coconut",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Prepare dosa by spreading batter thinly on a hot skillet.",
+        "Blend peanuts, coconut, chili, and salt into a smooth chutney.",
+        "Serve dosa hot with peanut chutney."
+      ],
+      "id": "db85"
+    },
+    {
+      "title": "Uggani with Mirchi Bajji",
+      "category": "Breakfast",
+      "description": "Soft rice puff paired with spicy chili fritters.",
+      "image": "/img/gallery/bajji.jpg",
+      "ingredients": [
+        "2 cups puffed rice",
+        "1 medium onion (chopped)",
+        "1 green chili (chopped)",
+        "1/4 tsp turmeric powder",
+        "Salt to taste",
+        "4 green chilies (for bajji)",
+        "1/2 cup gram flour"
+      ],
+      "steps": [
+        "Soak puffed rice briefly and squeeze out water.",
+        "Cook with onions, chili, turmeric, and salt.",
+        "Prepare batter with gram flour, coat chilies, and deep fry to make bajjis.",
+        "Serve uggani with mirchi bajjis."
+      ],
+      "id": "5be8"
+    },
+    {
+      "title": "Punugulu",
+      "category": "Breakfast",
+      "description": "Crispy fritters made from rice batter.",
+      "image": "/img/gallery/punugu.jpg",
+      "ingredients": [
+        "2 cups dosa batter",
+        "1 onion (chopped)",
+        "1 green chili (chopped)",
+        "Oil (for deep frying)"
+      ],
+      "steps": [
+        "Mix chopped onions and chili with dosa batter.",
+        "Heat oil and drop small portions of batter to deep fry until golden.",
+        "Serve with chutney or ketchup."
+      ],
+      "id": "c7b9"
+    },
+    {
+      "title": "Karam Dosa",
+      "category": "Breakfast",
+      "description": "Spicy dosa topped with chili powder and onions.",
+      "image": "/img/gallery/karam.jpg",
+      "ingredients": [
+        "2 cups dosa batter",
+        "1 tbsp red chili powder",
+        "1 onion (chopped)",
+        "Oil (for cooking)"
+      ],
+      "steps": [
+        "Spread dosa batter thinly on a skillet.",
+        "Sprinkle chili powder and onions on top.",
+        "Drizzle oil and cook until crispy.",
+        "Serve hot."
+      ],
+      "id": "ccc3"
+    },
+    {
+      "title": "Rava Dosa with Allam Chutney",
+      "category": "Breakfast",
+      "description": "Thin, crispy semolina dosa served with ginger chutney.",
+      "image": "/img/gallery/ravva.jpg",
+      "ingredients": [
+        "1 cup semolina (rava)",
+        "1/4 cup rice flour",
+        "1/4 cup all-purpose flour",
+        "Salt to taste",
+        "For chutney: 1 tbsp grated ginger, tamarind, green chili"
+      ],
+      "steps": [
+        "Prepare a thin batter with rava, rice flour, and all-purpose flour.",
+        "Cook dosa on a hot skillet until crispy.",
+        "Blend ginger, tamarind, and chili into chutney.",
+        "Serve together."
+      ],
+      "id": "551d"
+    },
+    {
+      "title": "Semiya Upma with Coconut Chutney",
+      "category": "Breakfast",
+      "description": "Savory vermicelli upma served with coconut chutney.",
+      "image": "/img/gallery/upma.jpg",
+      "ingredients": [
+        "1 cup vermicelli (semiya)",
+        "1 medium onion (chopped)",
+        "1 green chili (chopped)",
+        "1/4 cup grated coconut"
+      ],
+      "steps": [
+        "Roast semiya and cook with onions and chili.",
+        "Prepare chutney by blending grated coconut and salt.",
+        "Serve hot."
+      ],
+      "id": "4553"
+    },
+    {
+      "title": "Poha with Tamarind and Peanuts",
+      "category": "Breakfast",
+      "description": "Flattened rice flavored with tamarind and crunchy peanuts.",
+      "image": "/img/gallery/poha.jpg",
+      "ingredients": [
+        "1 cup flattened rice (poha)",
+        "1 tbsp tamarind paste",
+        "2 tbsp peanuts",
+        "1/4 tsp turmeric powder"
+      ],
+      "steps": [
+        "Soak poha and drain.",
+        "Cook with tamarind paste, turmeric, and peanuts.",
+        "Serve warm."
+      ],
+      "id": "a640"
+    },
+    {
+      "title": "Bobbatlu",
+      "category": "Breakfast",
+      "description": "Sweet lentil flatbread flavored with ghee.",
+      "image": "/img/gallery/bobattu.jpg",
+      "ingredients": [
+        "1 cup chana dal",
+        "1 cup jaggery",
+        "2 cups wheat flour",
+        "Ghee (for cooking)"
+      ],
+      "steps": [
+        "Cook and mash chana dal, mix with jaggery to form filling.",
+        "Make dough from wheat flour and roll into small discs.",
+        "Fill discs with dal-jaggery mixture, seal, and roll again.",
+        "Cook on a skillet with ghee until golden."
+      ],
+      "id": "f1ef"
+    },
+    {
+      "title": "Minapa Roti",
+      "category": "Breakfast",
+      "description": "Crispy urad dal dosa served with chutney.",
+      "image": "/img/gallery/dosa.jpg",
+      "ingredients": [
+        "1 cup urad dal",
+        "1/2 cup rice",
+        "1 green chili",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Soak urad dal and rice for 4-6 hours.",
+        "Grind into a smooth batter with chili and salt.",
+        "Cook dosa on a skillet until crispy.",
+        "Serve with chutney."
+      ],
+      "id": "9280"
+    },
+    {
+      "title": "Ragi Sankati with Peanut Chutney",
+      "category": "Breakfast",
+      "description": "A healthy ragi dish served with spicy peanut chutney.",
+      "image": "/img/gallery/ragi.jpg",
+      "ingredients": [
+        "1 cup ragi flour",
+        "2 cups water",
+        "Salt to taste",
+        "1/2 cup peanuts"
+      ],
+      "steps": [
+        "Boil water, add ragi flour gradually, and stir to avoid lumps.",
+        "Cook until thickened and smooth.",
+        "Prepare chutney by grinding peanuts and spices.",
+        "Serve together."
+      ],
+      "id": "c77c"
+    },
+    {
+      "title": "Andhra-style Pongal with Ghee",
+      "category": "Breakfast",
+      "description": "Soft pongal rice flavored with spices and ghee.",
+      "image": "/img/gallery/pongal.jpg",
+      "ingredients": [
+        "1 cup rice",
+        "1/2 cup moong dal",
+        "1 tbsp ghee",
+        "1 tsp black pepper",
+        "1 tsp cumin"
+      ],
+      "steps": [
+        "Cook rice and dal together until soft.",
+        "Heat ghee, add pepper and cumin, and mix with cooked rice.",
+        "Serve hot."
+      ],
+      "id": "b77e"
+    },
+    {
+      "title": "Garelu (Medu Vada) with Sambar",
+      "category": "Breakfast",
+      "description": "Crispy lentil fritters served with flavorful sambar.",
+      "image": "/img/gallery/garelu.jpg",
+      "ingredients": [
+        "1 cup urad dal",
+        "1 green chili",
+        "Salt to taste",
+        "Oil (for deep frying)"
+      ],
+      "steps": [
+        "Soak and grind urad dal into a smooth batter.",
+        "Shape batter into small doughnuts and deep fry until golden.",
+        "Serve with hot sambar."
+      ],
+      "id": "f57f"
+    },
+    {
+      "title": "Pappu Charu (Dal Rasam) with Steamed Rice",
+      "category": "Lunch",
+      "description": "A tangy dal rasam made with tamarind and spices, served with steamed rice.",
+      "image": "/img/gallery/pappucharu.jpg",
+      "ingredients": [
+        "1 cup toor dal (pigeon peas)",
+        "1/4 cup tamarind pulp",
+        "1 green chili, slit",
+        "1 tomato, chopped",
+        "1 tbsp oil",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp turmeric powder",
+        "1/4 tsp red chili powder",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Cook toor dal with enough water in a pressure cooker.",
+        "In a pan, heat oil, add mustard seeds, cumin seeds, and green chili.",
+        "Add chopped tomato and cook until soft.",
+        "Add tamarind pulp, turmeric, red chili powder, and salt to the mixture.",
+        "Add the cooked dal to the pan and simmer for 5-10 minutes.",
+        "Garnish with coriander leaves and serve hot with steamed rice."
+      ],
+      "id": "18b6"
+    },
+    {
+      "title": "Gongura Pachadi with Hot Rice",
+      "category": "Lunch",
+      "description": "Tangy and spicy gongura chutney served with hot rice.",
+      "image": "/img/gallery/gpick.jpg",
+      "ingredients": [
+        "1 bunch gongura (sorrel leaves)",
+        "1 tbsp oil",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp fenugreek seeds",
+        "2 dried red chilies",
+        "1 tbsp sesame seeds",
+        "1 tbsp tamarind pulp",
+        "Salt to taste"
+      ],
+      "steps": [
+        "In a pan, heat oil and sauté mustard seeds, fenugreek, dried red chilies, and sesame seeds.",
+        "Add the gongura leaves and cook until they wilt and release moisture.",
+        "Add tamarind pulp, salt, and cook until the mixture thickens.",
+        "Blend the chutney into a coarse paste and serve with hot rice."
+      ],
+      "id": "dd89"
+    },
+    {
+      "title": "Pulasa Pulusu",
+      "category": "Lunch",
+      "description": "A seasonal delicacy, Andhra-style fish curry made with tamarind and spices.",
+      "image": "/img/gallery/fish2.jpg",
+      "ingredients": [
+        "1 kg Pulasa fish (seasonal fish)",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tbsp tamarind pulp",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tsp ginger-garlic paste",
+        "1 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Marinate the fish with turmeric and red chili powder for 15 minutes.",
+        "In a pan, heat oil and sauté onions, tomatoes, and ginger-garlic paste until golden.",
+        "Add tamarind pulp and salt, cook for 5 minutes.",
+        "Add the fish pieces and cook until they are tender and the curry thickens.",
+        "Garnish with coriander leaves and serve with rice."
+      ],
+      "id": "10e2"
+    },
+    {
+      "title": "Royyala Iguru (Prawn Curry) with Rice",
+      "category": "Lunch",
+      "description": "Spicy and flavorful prawn curry served with steamed rice.",
+      "image": "/img/gallery/prawniguru.jpg",
+      "ingredients": [
+        "500g prawns, cleaned and deveined",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp tamarind pulp",
+        "1/2 tsp mustard seeds",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Heat oil in a pan, add mustard seeds, onions, and sauté until golden.",
+        "Add ginger-garlic paste and tomatoes, cook until soft.",
+        "Add turmeric powder, red chili powder, tamarind pulp, and salt.",
+        "Add prawns and cook until they are tender and the curry thickens.",
+        "Serve with steamed rice."
+      ],
+      "id": "2b2d"
+    },
+    {
+      "title": "Gutti Vankaya Kura with Jowar Roti",
+      "category": "Lunch",
+      "description": "Stuffed brinjal curry cooked in a rich, spicy masala, paired with jowar roti.",
+      "image": "/img/gallery/vankai.webp",
+      "ingredients": [
+        "6 small brinjals (eggplants), slit",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tbsp peanuts",
+        "1 tsp sesame seeds",
+        "1 tsp tamarind pulp",
+        "1 tbsp oil",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Roast peanuts and sesame seeds, grind them into a coarse powder.",
+        "Heat oil in a pan, add mustard and cumin seeds.",
+        "Sauté onions and tomatoes until soft.",
+        "Stuff the brinjals with the ground paste and add them to the pan.",
+        "Cook until brinjals are tender and the curry is thick.",
+        "Serve with jowar roti."
+      ],
+      "id": "b552"
+    },
+    {
+      "title": "Andhra Chepala Pulusu",
+      "category": "Lunch",
+      "description": "Traditional Andhra-style fish curry made with tamarind and aromatic spices.",
+      "image": "/img/gallery/fish.jpg",
+      "ingredients": [
+        "500g fish (any firm fish)",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tsp ginger-garlic paste",
+        "1 tbsp tamarind pulp",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1/2 tsp mustard seeds",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "In a pan, heat oil and sauté onions and ginger-garlic paste until golden.",
+        "Add chopped tomatoes, turmeric powder, red chili powder, and salt.",
+        "Add tamarind pulp and cook for 5 minutes.",
+        "Add fish pieces and simmer until the fish is cooked through.",
+        "Serve with steamed rice."
+      ],
+      "id": "bae5"
+    },
+    {
+      "title": "Mamidikaya Pappu (Raw Mango Dal) with Rice",
+      "category": "Lunch",
+      "description": "Tangy raw mango dal paired with hot steamed rice.",
+      "image": "/img/gallery/mpappu.jpg",
+      "ingredients": [
+        "1 cup toor dal (pigeon peas)",
+        "1 raw mango, peeled and chopped",
+        "1 onion, chopped",
+        "1 green chili, slit",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "1/2 tsp turmeric powder",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Cook toor dal with water and raw mango pieces.",
+        "Heat oil in a pan, add mustard seeds, cumin seeds, and green chili.",
+        "Add onions and sauté until golden.",
+        "Add the cooked dal and mango, simmer for 5 minutes.",
+        "Serve with steamed rice."
+      ],
+      "id": "14c8"
+    },
+    {
+      "title": "Avakaya Annam (Rice Mixed with Mango Pickle)",
+      "category": "Lunch",
+      "description": "Simple and tangy rice dish mixed with traditional mango pickle.",
+      "image": "/img/gallery/pickrice.jpg",
+      "ingredients": [
+        "2 cups rice, cooked",
+        "1/2 cup mango pickle (avakaya)",
+        "1 tbsp ghee",
+        "1/2 tsp mustard seeds",
+        "1/2 tsp cumin seeds",
+        "A pinch of asafoetida"
+      ],
+      "steps": [
+        "In a pan, heat ghee and add mustard seeds, cumin seeds, and asafoetida.",
+        "Add cooked rice and mix well with mango pickle.",
+        "Serve hot."
+      ],
+      "id": "ee51"
+    },
+    {
+      "title": "Ulava Charu (Horse Gram Stew) with Rice",
+      "category": "Lunch",
+      "description": "A hearty and nutritious horse gram stew served with hot rice.",
+      "image": "/img/gallery/ulava.jpg",
+      "ingredients": [
+        "1 cup horse gram (ulavalu)",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1/2 tsp turmeric powder",
+        "1 tsp cumin powder",
+        "1 tbsp tamarind pulp",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Soak horse gram overnight and cook it in a pressure cooker.",
+        "In a pan, heat oil, sauté onions and tomatoes.",
+        "Add turmeric, cumin powder, tamarind pulp, and salt.",
+        "Add cooked horse gram and simmer for 10 minutes.",
+        "Serve with rice."
+      ],
+      "id": "c5fb"
+    },
+    {
+      "title": "Chicken Pulao Andhra-style",
+      "category": "Lunch",
+      "description": "Aromatic and flavorful Andhra-style chicken pulao.",
+      "image": "/img/gallery/pulao.jpg",
+      "ingredients": [
+        "500g chicken, chopped",
+        "1 onion, sliced",
+        "2 tomatoes, chopped",
+        "2 cups basmati rice",
+        "1 tbsp ginger-garlic paste",
+        "1/2 tsp garam masala",
+        "1 tsp red chili powder",
+        "2 cups water",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Heat oil, sauté onions and ginger-garlic paste.",
+        "Add tomatoes, garam masala, red chili powder, and chicken pieces.",
+        "Cook chicken until tender.",
+        "Add rice, water, and salt, and cook until rice is done.",
+        "Serve hot."
+      ],
+      "id": "13cf"
+    },
+    {
+      "title": "Miriyala Rasam (Pepper Rasam) with Rice",
+      "category": "Lunch",
+      "description": "Spicy pepper rasam served with hot steamed rice.",
+      "image": "/img/gallery/rasam.jpg",
+      "ingredients": [
+        "1 cup toor dal",
+        "1/2 tsp black pepper",
+        "1 tomato, chopped",
+        "1 tsp cumin seeds",
+        "1 tbsp tamarind pulp",
+        "1 tbsp ghee",
+        "1/2 tsp mustard seeds",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Cook toor dal in a pressure cooker.",
+        "In a pan, heat ghee, add mustard seeds, cumin seeds, and black pepper.",
+        "Add tomatoes, tamarind pulp, and cooked dal, simmer for 10 minutes.",
+        "Garnish with coriander leaves and serve hot with rice."
+      ],
+      "id": "f6fe"
+    },
+    {
+      "title": "Kakarakaya Fry (Bitter Gourd Fry) with Rice",
+      "category": "Lunch",
+      "description": "Crispy bitter gourd fry served with steamed rice.",
+      "image": "/img/gallery/kakarkaya.jpg",
+      "ingredients": [
+        "2 bitter gourds, sliced",
+        "1 onion, chopped",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Slice bitter gourds and remove seeds.",
+        "Heat oil in a pan and sauté onions.",
+        "Add bitter gourd slices, turmeric, chili powder, and salt.",
+        "Fry until crispy and golden.",
+        "Serve with steamed rice."
+      ],
+      "id": "e79d"
+    },
+    {
+      "title": "Kodi Pulusu (Chicken Curry) with Rice",
+      "category": "Lunch",
+      "description": "Traditional spicy chicken curry paired with hot steamed rice.",
+      "image": "/img/gallery/kodip.jpg",
+      "ingredients": [
+        "500g chicken, chopped",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tsp ginger-garlic paste",
+        "1 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp tamarind pulp",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Heat oil in a pan, sauté onions, and ginger-garlic paste.",
+        "Add tomatoes, turmeric powder, red chili powder, and salt.",
+        "Add chicken and cook until it is tender.",
+        "Add tamarind pulp and simmer until the curry thickens.",
+        "Serve with rice."
+      ],
+      "id": "2acb"
+    },
+    {
+      "title": "Tomato Pappu (Tomato Dal) with Steamed Rice",
+      "category": "Lunch",
+      "description": "Simple and flavorful tomato dal served with steamed rice.",
+      "image": "/img/gallery/tpappu.jpg",
+      "ingredients": [
+        "1 cup toor dal",
+        "2 tomatoes, chopped",
+        "1 onion, chopped",
+        "1 green chili, slit",
+        "1/2 tsp turmeric powder",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Cook toor dal with water and tomatoes.",
+        "In a pan, heat oil and sauté onions, green chili, and turmeric.",
+        "Add cooked dal and salt, simmer for 5 minutes.",
+        "Serve with rice."
+      ],
+      "id": "bcad"
+    },
+    {
+      "title": "Gongura Mutton with Rice",
+      "category": "Lunch",
+      "description": "Rich and tangy mutton curry made with gongura leaves, served with rice.",
+      "image": "/img/gallery/gmutton.jpg",
+      "ingredients": [
+        "500g mutton, chopped",
+        "1 bunch gongura leaves",
+        "1 onion, chopped",
+        "2 tomatoes, chopped",
+        "1 tsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp tamarind pulp",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Cook mutton with turmeric powder and salt in a pressure cooker.",
+        "Heat oil, sauté onions, tomatoes, and ginger-garlic paste.",
+        "Add cooked mutton and gongura leaves, cook until thick.",
+        "Serve with steamed rice."
+      ],
+      "id": "f28e"
+    },
+    {
+      "title": "Mirchi Bajji (Stuffed Chili Fritters)",
+      "category": "snacks",
+      "description": "Spicy and tangy green chilies stuffed with tangy filling, dipped in batter, and deep-fried.",
+      "image": "/img/gallery/sbajji.jpg",
+      "ingredients": [
+        "8-10 long green chilies",
+        "1 cup chickpea flour (besan)",
+        "1/2 tsp carom seeds (ajwain)",
+        "1/4 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "Salt to taste",
+        "Oil for deep frying",
+        "Tamarind chutney for stuffing"
+      ],
+      "steps": [
+        "Slit the green chilies lengthwise and remove the seeds.",
+        "Stuff them with tamarind chutney.",
+        "Prepare a batter by mixing chickpea flour, carom seeds, turmeric, chili powder, and salt.",
+        "Heat oil in a pan for deep frying.",
+        "Dip the stuffed chilies into the batter and fry them until golden and crispy.",
+        "Serve hot with chutney."
+      ],
+      "id": "8fbd"
+    },
+    {
+      "title": "Punugulu (Deep-Fried Rice Batter Fritters)",
+      "category": "snacks",
+      "description": "Crispy fritters made from fermented rice batter, deep-fried to perfection.",
+      "image": "/img/gallery/spunugu.jpg",
+      "ingredients": [
+        "2 cups rice flour",
+        "1 cup fermented rice (idli batter)",
+        "1 green chili, chopped",
+        "1/4 cup chopped onions",
+        "1/4 cup chopped coriander",
+        "Salt to taste",
+        "Oil for frying"
+      ],
+      "steps": [
+        "In a bowl, mix rice flour, fermented rice, chopped chili, onions, coriander, and salt.",
+        "Add water if necessary to make a thick batter.",
+        "Heat oil in a deep frying pan.",
+        "Shape the batter into small balls and fry them until golden brown.",
+        "Serve hot with chutney."
+      ],
+      "id": "4202"
+    },
+    {
+      "title": "Garelu (Medu Vada)",
+      "category": "snacks",
+      "description": "Crispy fried lentil fritters, soft inside and crunchy outside.",
+      "image": "/img/gallery/sgare.jpg",
+      "ingredients": [
+        "1 cup urad dal (black gram lentils)",
+        "1 onion, finely chopped",
+        "2 green chilies, chopped",
+        "1 tsp cumin seeds",
+        "1/4 tsp asafoetida",
+        "Salt to taste",
+        "Oil for deep frying"
+      ],
+      "steps": [
+        "Soak urad dal for 4-6 hours and grind it into a smooth batter.",
+        "Mix the batter with chopped onions, green chilies, cumin, asafoetida, and salt.",
+        "Heat oil in a pan for deep frying.",
+        "Wet your hands, take a small amount of batter, form a ring shape, and drop it into the hot oil.",
+        "Fry until golden brown and crispy.",
+        "Serve with coconut chutney or sambar."
+      ],
+      "id": "c316"
+    },
+    {
+      "title": "Bandar Laddu (Sweet Made of Besan)",
+      "category": "Desserts",
+      "description": "A traditional sweet made with roasted besan (gram flour) and sugar.",
+      "image": "/img/gallery/laddu.jpg",
+      "ingredients": [
+        "1 cup besan (gram flour)",
+        "1/2 cup ghee",
+        "3/4 cup sugar",
+        "1/4 cup water",
+        "Cardamom powder to taste",
+        "Chopped cashews and almonds for garnish"
+      ],
+      "steps": [
+        "Roast the besan in ghee until it turns golden brown and aromatic.",
+        "In a separate pan, dissolve sugar in water and bring it to a single thread consistency.",
+        "Add the sugar syrup to the roasted besan, mix well, and cook for a few minutes.",
+        "Shape the mixture into small laddus and garnish with chopped nuts.",
+        "Allow the laddus to cool and set."
+      ],
+      "id": "9af0"
+    },
+    {
+      "title": "Boorelu (Sweet Stuffed Dumplings)",
+      "category": "snacks",
+      "description": "Sweet dumplings stuffed with jaggery and coconut, deep-fried in ghee.",
+      "image": "/img/gallery/boorelu.jpg",
+      "ingredients": [
+        "1 cup rice flour",
+        "1/2 cup urad dal",
+        "1/4 cup jaggery",
+        "1/4 cup grated coconut",
+        "1/4 tsp cardamom powder",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Soak urad dal for 2-3 hours and grind it into a smooth batter.",
+        "Prepare a stuffing by mixing jaggery, grated coconut, and cardamom powder.",
+        "Form small balls of dough, stuff them with the coconut-jaggery mixture, and seal the edges.",
+        "Heat oil in a pan and fry the dumplings until golden brown.",
+        "Serve hot."
+      ],
+      "id": "abbe"
+    },
+    {
+      "title": "Nuvvula Chekkalu (Sesame Rice Crackers)",
+      "category": "snacks",
+      "description": "Crispy and crunchy sesame and rice flour crackers.",
+      "image": "/img/gallery/nchekka.jpg",
+      "ingredients": [
+        "1 cup rice flour",
+        "1/4 cup sesame seeds",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp turmeric powder",
+        "1/2 tsp red chili powder",
+        "Salt to taste",
+        "Water to form the dough",
+        "Oil for frying"
+      ],
+      "steps": [
+        "In a bowl, mix rice flour, sesame seeds, cumin seeds, turmeric, chili powder, and salt.",
+        "Add water and knead into a stiff dough.",
+        "Roll the dough into thin discs and prick with a fork to prevent puffing.",
+        "Heat oil in a pan and fry the crackers until golden and crispy.",
+        "Allow them to cool before serving."
+      ],
+      "id": "595f"
+    },
+    {
+      "title": "Palakayalu (Crispy Rice Flour Desserts)",
+      "category": "snacks",
+      "description": "Crunchy and crispy rice flour-based snack, fried to perfection.",
+      "image": "/img/gallery/pala.jpg",
+      "ingredients": [
+        "1 cup rice flour",
+        "1/4 cup chickpea flour",
+        "1/2 tsp cumin seeds",
+        "1/4 tsp black sesame seeds",
+        "Salt to taste",
+        "Water to form the dough",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Mix rice flour, chickpea flour, cumin seeds, sesame seeds, and salt in a bowl.",
+        "Add water gradually and knead into a smooth dough.",
+        "Roll out the dough into thin sheets and cut them into small squares.",
+        "Fry the pieces in hot oil until crispy and golden.",
+        "Serve as a snack."
+      ],
+      "id": "6d61"
+    },
+    {
+      "title": "Pappu Chekkalu (Lentil Crackers)",
+      "category": "snacks",
+      "description": "Crispy and savory lentil-based crackers, ideal for a quick snack.",
+      "image": "/img/gallery/pchekka.jpg",
+      "ingredients": [
+        "1/2 cup moong dal",
+        "1/2 cup rice flour",
+        "1/4 tsp cumin seeds",
+        "1/4 tsp turmeric powder",
+        "1/4 tsp asafoetida",
+        "Salt to taste",
+        "Water to form the dough",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Soak moong dal for 3-4 hours, then grind it coarsely.",
+        "Mix the ground dal, rice flour, cumin seeds, turmeric, and salt.",
+        "Add water and knead into a dough.",
+        "Roll out the dough into thin discs and fry them in hot oil until crispy.",
+        "Serve as a snack."
+      ],
+      "id": "75c7"
+    },
+    {
+      "title": "Gongura Punugulu (Spinach Fritters)",
+      "category": "snacks",
+      "description": "Fritters made with gongura (sorrel) leaves and rice batter.",
+      "image": "/img/gallery/gpunugu.jpg",
+      "ingredients": [
+        "1 cup rice flour",
+        "1/2 cup fermented rice batter",
+        "1/2 cup gongura leaves",
+        "1 green chili, chopped",
+        "1/4 cup onions, chopped",
+        "Salt to taste",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Mix rice flour, fermented rice batter, gongura leaves, green chili, onions, and salt.",
+        "Shape the mixture into small fritters.",
+        "Heat oil in a pan and fry the fritters until golden and crispy.",
+        "Serve hot with chutney."
+      ],
+      "id": "2a3a"
+    },
+    {
+      "title": "Ariselu (Sweet Rice Flour Patties)",
+      "category": "snacks",
+      "description": "Sweet rice flour patties made with jaggery, deep-fried to golden perfection.",
+      "image": "/img/gallery/arisa.jpg",
+      "ingredients": [
+        "1 cup rice flour",
+        "1/2 cup jaggery",
+        "1/4 cup water",
+        "1/4 tsp cardamom powder",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Dissolve jaggery in water and cook it until it forms a single thread consistency.",
+        "Mix rice flour and cardamom powder into the jaggery syrup.",
+        "Shape the mixture into small patties.",
+        "Fry them in hot oil until golden brown.",
+        "Serve hot as a sweet treat."
+      ],
+      "id": "a436"
+    },
+    {
+      "title": "Andhra Chicken Curry with Chapati",
+      "category": "Dinner",
+      "description": "Spicy and flavorful Andhra-style chicken curry served with soft chapatis.",
+      "image": "/img/gallery/andracurry.jpg",
+      "ingredients": [
+        "500g chicken pieces",
+        "2 onions (finely chopped)",
+        "2 tomatoes (pureed)",
+        "2 tsp ginger-garlic paste",
+        "1/2 tsp turmeric powder",
+        "2 tsp red chili powder",
+        "1 tsp garam masala",
+        "1/2 cup yogurt",
+        "2 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Heat oil in a pan and sauté onions until golden brown.",
+        "Add ginger-garlic paste and sauté for 1-2 minutes.",
+        "Add tomatoes, turmeric powder, and red chili powder, cooking until oil separates.",
+        "Add chicken pieces and salt, mix well, and cook for 10 minutes.",
+        "Add yogurt and garam masala, cover, and simmer until the chicken is tender.",
+        "Garnish with coriander leaves and serve hot with chapati."
+      ],
+      "id": "0f26"
+    },
+    {
+      "title": "Ragi Sankati with Natu Kodi Pulusu (Chicken Stew with Ragi Mudde)",
+      "category": "Dinner",
+      "description": "Nutritious ragi mudde paired with a spicy country chicken stew.",
+      "image": "/img/gallery/ragi.jpg",
+      "ingredients": [
+        "1 cup ragi flour",
+        "3 cups water",
+        "1/2 tsp salt",
+        "500g country chicken",
+        "2 onions (sliced)",
+        "2 tsp ginger-garlic paste",
+        "2 tsp red chili powder",
+        "1 tsp turmeric powder",
+        "1 tsp coriander powder",
+        "3 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Boil water with salt and gradually add ragi flour, stirring continuously.",
+        "Cook until it forms a thick consistency and shape into balls (mudde).",
+        "Heat oil in a pan and sauté onions until golden.",
+        "Add ginger-garlic paste and spices, cooking until fragrant.",
+        "Add chicken pieces, mix well, and cook until tender.",
+        "Serve the chicken stew hot with ragi mudde."
+      ],
+      "id": "82a5"
+    },
+    {
+      "title": "Gongura Pappu with Steamed Rice",
+      "category": "Dinner",
+      "description": "Tangy lentil curry made with gongura leaves, perfect with steamed rice.",
+      "image": "/img/gallery/gongura.jpg",
+      "ingredients": [
+        "1 cup toor dal",
+        "1 cup gongura leaves",
+        "2 green chilies",
+        "1/2 tsp turmeric powder",
+        "1 tsp mustard seeds",
+        "2 dried red chilies",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Cook toor dal with green chilies and turmeric until soft.",
+        "In a separate pan, sauté gongura leaves until wilted.",
+        "Mash the dal and mix it with the gongura leaves.",
+        "Prepare a tempering with mustard seeds, dried chilies, and oil. Add to the dal.",
+        "Serve hot with steamed rice."
+      ],
+      "id": "1add"
+    },
+    {
+      "title": "Tomato Pachadi with Rice and Ghee",
+      "category": "Dinner",
+      "description": "Tangy tomato chutney served with hot rice and a dollop of ghee.",
+      "image": "/img/gallery/tomato.jpg",
+      "ingredients": [
+        "3 ripe tomatoes",
+        "2 green chilies",
+        "1 tsp mustard seeds",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Heat oil in a pan and sauté tomatoes and green chilies until soft.",
+        "Add turmeric powder, red chili powder, and salt. Cook until the mixture thickens.",
+        "Mash or blend into a coarse chutney.",
+        "Serve with rice and ghee."
+      ],
+      "id": "15fb"
+    },
+    {
+      "title": "Kodi Vepudu with Steamed Rice (Andhra-Style Chicken Fry)",
+      "category": "Dinner",
+      "description": "Spicy and crispy chicken fry, a perfect complement to steamed rice.",
+      "image": "/img/gallery/kodi.jpg",
+      "ingredients": [
+        "500g chicken pieces",
+        "2 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "2 tsp ginger-garlic paste",
+        "2 tbsp oil",
+        "1/2 tsp garam masala",
+        "Salt to taste",
+        "Fresh curry leaves for garnish"
+      ],
+      "steps": [
+        "Marinate chicken with turmeric, chili powder, and salt for 30 minutes.",
+        "Heat oil in a pan and fry chicken until golden brown.",
+        "Add ginger-garlic paste and cook for 2 minutes.",
+        "Sprinkle garam masala and garnish with curry leaves.",
+        "Serve hot with steamed rice."
+      ],
+      "id": "4583"
+    },
+    {
+      "title": "Biryani with Gongura Chutney",
+      "category": "Dinner",
+      "description": "Fragrant biryani paired with tangy gongura chutney.",
+      "image": "/img/gallery/biryani.webp",
+      "ingredients": [
+        "2 cups basmati rice",
+        "500g chicken/mutton",
+        "2 onions (fried)",
+        "2 tbsp biryani masala",
+        "1 cup gongura leaves (blended)",
+        "2 tsp ginger-garlic paste",
+        "3 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander and mint for garnish"
+      ],
+      "steps": [
+        "Cook basmati rice until 80% done and set aside.",
+        "Marinate chicken/mutton with spices and yogurt.",
+        "Layer rice and marinated meat in a pot, topping with fried onions and herbs.",
+        "Cook on low heat until the meat is tender.",
+        "Serve biryani hot with gongura chutney."
+      ],
+      "id": "7799"
+    },
+    {
+      "title": "Gutti Vankaya Kura with Chapati (Stuffed Brinjal Curry)",
+      "category": "Dinner",
+      "description": "Flavorful stuffed brinjal curry, perfect with chapati or rice.",
+      "image": "/img/gallery/vankai.webp",
+      "ingredients": [
+        "8 small brinjals",
+        "2 tbsp roasted peanuts",
+        "1 tbsp sesame seeds",
+        "1 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tbsp tamarind pulp",
+        "2 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander for garnish"
+      ],
+      "steps": [
+        "Prepare a paste with peanuts, sesame seeds, chili powder, turmeric, and tamarind.",
+        "Stuff the brinjals with the prepared paste.",
+        "Heat oil in a pan, add stuffed brinjals, and cook on low heat until tender.",
+        "Add the remaining paste and simmer for 5-7 minutes.",
+        "Garnish with coriander and serve hot with chapati."
+      ],
+      "id": "399a"
+    },
+    {
+      "title": "Pesarapappu Charu with Rice (Moong Dal Rasam)",
+      "category": "Dinner",
+      "description": "Light and comforting moong dal rasam served with rice.",
+      "image": "/img/gallery/moong.jpg",
+      "ingredients": [
+        "1 cup moong dal",
+        "2 green chilies",
+        "1/2 tsp turmeric powder",
+        "1 tsp mustard seeds",
+        "2 dried red chilies",
+        "1 tbsp tamarind pulp",
+        "Salt to taste",
+        "Fresh curry leaves"
+      ],
+      "steps": [
+        "Cook moong dal with green chilies and turmeric until soft.",
+        "Mash the dal and add tamarind pulp and salt.",
+        "Prepare a tempering with mustard seeds, dried chilies, and curry leaves. Add to the dal.",
+        "Serve hot with rice."
+      ],
+      "id": "d139"
+    },
+    {
+      "title": "Ulava Charu with Fresh Cream and Idli (Horse Gram Stew)",
+      "category": "Dinner",
+      "description": "Rich horse gram stew served with fresh cream and soft idlis.",
+      "image": "/img/gallery/ulava.jpg",
+      "ingredients": [
+        "1 cup horse gram",
+        "2 tsp tamarind pulp",
+        "1/2 tsp turmeric powder",
+        "1 tsp red chili powder",
+        "1 tbsp oil",
+        "Salt to taste",
+        "Fresh cream for garnish"
+      ],
+      "steps": [
+        "Soak horse gram overnight and pressure cook until soft.",
+        "Extract the juice and mix with tamarind pulp, turmeric, and chili powder.",
+        "Simmer the mixture for 10 minutes, adjusting salt to taste.",
+        "Serve hot with fresh cream and idli."
+      ],
+      "id": "f00f"
+    },
+    {
+      "title": "Chapati with Allam Pachadi (Ginger Chutney)",
+      "category": "Dinner",
+      "description": "Soft chapati paired with spicy and tangy ginger chutney.",
+      "image": "/img/gallery/allam.jpg",
+      "ingredients": [
+        "2 cups wheat flour",
+        "1/2 cup water",
+        "1 tsp salt",
+        "2 tbsp oil",
+        "100g ginger",
+        "2 tsp jaggery",
+        "2 green chilies",
+        "1 tbsp tamarind pulp",
+        "1 tsp mustard seeds"
+      ],
+      "steps": [
+        "Knead wheat flour, water, and salt into a soft dough. Roll into chapatis and cook on a hot pan.",
+        "Blend ginger, jaggery, green chilies, and tamarind into a chutney.",
+        "Prepare a tempering with mustard seeds and add to the chutney.",
+        "Serve chapati hot with allam pachadi."
+      ],
+      "id": "17dc"
+    },
+    {
+      "title": "Royyala Vepudu with Rice (Andhra-Style Prawn Fry)",
+      "category": "Dinner",
+      "description": "Spicy Andhra-style prawn fry served with steamed rice.",
+      "image": "/img/gallery/prawn.jpg",
+      "ingredients": [
+        "500g prawns",
+        "2 tsp red chili powder",
+        "1/2 tsp turmeric powder",
+        "1 tsp garam masala",
+        "2 tbsp oil",
+        "Salt to taste",
+        "Fresh curry leaves"
+      ],
+      "steps": [
+        "Marinate prawns with turmeric, chili powder, and salt for 15 minutes.",
+        "Heat oil in a pan and sauté prawns until cooked.",
+        "Sprinkle garam masala and garnish with curry leaves.",
+        "Serve hot with rice."
+      ],
+      "id": "b79f"
+    },
+    {
+      "title": "Kandi Pachadi with Hot Rice (Toor Dal Chutney)",
+      "category": "Dinner",
+      "description": "Earthy toor dal chutney served with hot rice.",
+      "image": "/img/gallery/toor.webp",
+      "ingredients": [
+        "1 cup toor dal",
+        "2 red chilies",
+        "1 tsp cumin seeds",
+        "1 tbsp tamarind pulp",
+        "1 tbsp oil",
+        "Salt to taste",
+        "Fresh curry leaves"
+      ],
+      "steps": [
+        "Dry roast toor dal, red chilies, and cumin seeds until aromatic.",
+        "Grind with tamarind pulp and salt into a coarse chutney.",
+        "Prepare a tempering with curry leaves and add to the chutney.",
+        "Serve with hot rice."
+      ],
+      "id": "6ae8"
+    },
+    {
+      "title": "Andhra-Style Fish Pulusu with Rice",
+      "category": "Dinner",
+      "description": "Tangy and spicy fish curry served with steamed rice.",
+      "image": "/img/gallery/fish.jpg",
+      "ingredients": [
+        "500g fish pieces (Rohu or Catla recommended)",
+        "2 medium onions (finely chopped)",
+        "2 medium tomatoes (chopped)",
+        "3 tbsp tamarind pulp",
+        "1 tsp turmeric powder",
+        "2 tbsp red chili powder",
+        "1 tbsp coriander powder",
+        "2 green chilies (slit)",
+        "1 tsp mustard seeds",
+        "Fresh curry leaves",
+        "2 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Heat oil in a pan and add mustard seeds. Let them splutter.",
+        "Add curry leaves, green chilies, and onions. Sauté until onions turn golden brown.",
+        "Add tomatoes and cook until soft and mushy.",
+        "Mix in turmeric, red chili powder, coriander powder, and salt.",
+        "Add tamarind pulp and 2 cups of water. Bring the mixture to a boil.",
+        "Gently add fish pieces and simmer for 15–20 minutes until the fish is cooked through and the flavors meld.",
+        "Garnish with fresh coriander leaves and serve with steamed rice."
+      ],
+      "id": "8c31"
+    },
+    {
+      "title": "Avakaya Annam with Papad (Rice Mixed with Mango Pickle)",
+      "category": "Dinner",
+      "description": "Simple and flavorful rice mixed with tangy mango pickle, paired with crispy papad.",
+      "image": "/img/gallery/pickle.jpg",
+      "ingredients": [
+        "2 cups steamed rice",
+        "3 tbsp Avakaya (Andhra Mango Pickle)",
+        "1 tbsp ghee or sesame oil (optional)",
+        "Papads (fried or roasted) for serving"
+      ],
+      "steps": [
+        "Take warm steamed rice in a mixing bowl.",
+        "Add Avakaya (mango pickle) to the rice and mix gently to coat the rice evenly.",
+        "Optionally, drizzle ghee or sesame oil for added flavor.",
+        "Serve immediately with crispy fried or roasted papads on the side."
+      ],
+      "id": "d4b6"
+    },
+    {
+      "title": "Nellore Mutton Curry with Steamed Rice",
+      "category": "Dinner",
+      "description": "Spicy and aromatic Nellore-style mutton curry served with rice.",
+      "image": "/img/gallery/mutton.jpg",
+      "ingredients": [
+        "500g mutton",
+        "2 onions (chopped)",
+        "2 tomatoes (pureed)",
+        "2 tsp ginger-garlic paste",
+        "2 tsp red chili powder",
+        "1 tsp turmeric powder",
+        "2 tsp garam masala",
+        "3 tbsp oil",
+        "Salt to taste",
+        "Fresh coriander leaves for garnish"
+      ],
+      "steps": [
+        "Heat oil and sauté onions until golden brown.",
+        "Add ginger-garlic paste and tomatoes, cooking until oil separates.",
+        "Add mutton, spices, and salt. Cook for 10 minutes.",
+        "Add water and simmer until mutton is tender.",
+        "Garnish with coriander and serve with rice."
+      ],
+      "id": "07aa"
+    },
+    {
+      "title": "Gulab Jamun",
+      "category": "Desserts",
+      "description": "Soft and spongy fried milk-based dumplings soaked in aromatic sugar syrup.",
+      "image": "/img/gallery/gulab.jpg",
+      "ingredients": [
+        "1 cup khoya (mawa)",
+        "1/4 cup all-purpose flour",
+        "1/4 tsp baking powder",
+        "1 cup sugar",
+        "2 cups water",
+        "1/4 tsp cardamom powder",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Mix khoya, all-purpose flour, and baking powder to form a soft dough.",
+        "Shape the dough into small balls.",
+        "Heat oil and fry the balls until golden brown.",
+        "Prepare sugar syrup by boiling water, sugar, and cardamom powder.",
+        "Soak the fried balls in syrup and serve warm."
+      ],
+      "id": "412f"
+    },
+    {
+      "title": "Rasgulla",
+      "category": "Desserts",
+      "description": "Soft and spongy cheese balls soaked in a light sugar syrup.",
+      "image": "/img/gallery/rasagulla.jpg",
+      "ingredients": [
+        "1 liter milk",
+        "2 tbsp lemon juice",
+        "1 cup sugar",
+        "4 cups water",
+        "1/4 tsp rose water (optional)"
+      ],
+      "steps": [
+        "Boil milk and add lemon juice to curdle it.",
+        "Strain the curds and knead into a smooth dough.",
+        "Shape into small balls and boil in sugar syrup for 15 minutes.",
+        "Cool and serve chilled with rose water."
+      ],
+      "id": "e68c"
+    },
+    {
+      "title": "Rasmalai",
+      "category": "Desserts",
+      "description": "Soft paneer discs soaked in sweetened milk flavored with saffron and cardamom.",
+      "image": "/img/gallery/rasmalai.jpg",
+      "ingredients": [
+        "500g paneer",
+        "1 liter milk",
+        "1/2 cup sugar",
+        "1/4 tsp cardamom powder",
+        "A few saffron strands",
+        "Chopped nuts for garnish"
+      ],
+      "steps": [
+        "Prepare paneer discs from paneer dough and cook in sugar syrup.",
+        "Boil milk until reduced to half, add sugar, cardamom, and saffron.",
+        "Soak the paneer discs in the sweetened milk.",
+        "Chill and serve garnished with nuts."
+      ],
+      "id": "e05d"
+    },
+    {
+      "title": "Laddu",
+      "category": "Desserts",
+      "description": "Traditional Indian sweet made with gram flour, ghee, and sugar.",
+      "image": "/img/gallery/laddu.jpg",
+      "ingredients": [
+        "2 cups gram flour",
+        "1 cup sugar",
+        "1/2 cup ghee",
+        "1/4 tsp cardamom powder",
+        "Chopped nuts (optional)"
+      ],
+      "steps": [
+        "Roast gram flour in ghee until aromatic.",
+        "Mix sugar and cardamom powder into the roasted flour.",
+        "Shape into laddus while warm and garnish with nuts."
+      ],
+      "id": "2c0e"
+    },
+    {
+      "title": "Kalakand",
+      "category": "Desserts",
+      "description": "Rich and moist Indian sweet made with condensed milk and paneer.",
+      "image": "/img/gallery/kala.jpg",
+      "ingredients": [
+        "500g paneer",
+        "1/2 cup condensed milk",
+        "1/4 cup sugar",
+        "1/4 tsp cardamom powder",
+        "Chopped nuts for garnish"
+      ],
+      "steps": [
+        "Cook paneer and condensed milk in a pan until thickened.",
+        "Add sugar and cardamom powder and mix well.",
+        "Spread the mixture in a greased tray and garnish with nuts.",
+        "Let it set and cut into pieces before serving."
+      ],
+      "id": "b5b4"
+    },
+    {
+      "title": "Mysore Pak",
+      "category": "Desserts",
+      "description": "Buttery and rich Indian fudge made with gram flour, sugar, and ghee.",
+      "image": "/img/gallery/pak.jpg",
+      "ingredients": [
+        "1 cup gram flour",
+        "2 cups sugar",
+        "1 cup ghee",
+        "1/2 cup water"
+      ],
+      "steps": [
+        "Prepare sugar syrup with sugar and water to one-thread consistency.",
+        "Gradually add roasted gram flour and mix well.",
+        "Slowly pour ghee and cook until the mixture leaves the sides of the pan.",
+        "Pour into a greased tray, let it set, and cut into pieces."
+      ],
+      "id": "d32f"
+    },
+    {
+      "title": "Jalebi",
+      "category": "Desserts",
+      "description": "Crispy and spiral-shaped Indian sweet soaked in sugar syrup.",
+      "image": "/img/gallery/jilebi.jpg",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "1/4 cup yogurt",
+        "1/2 tsp baking powder",
+        "1 cup sugar",
+        "1/2 cup water",
+        "A pinch of saffron",
+        "Oil for frying"
+      ],
+      "steps": [
+        "Prepare a batter with flour, yogurt, and baking powder. Ferment for 8 hours.",
+        "Pipe the batter into hot oil in spiral shapes and fry until golden.",
+        "Soak the jalebis in sugar syrup infused with saffron and serve."
+      ],
+      "id": "2c5c"
+    },
+    {
+      "title": "Kheer",
+      "category": "Desserts",
+      "description": "Creamy rice pudding flavored with cardamom and saffron.",
+      "image": "/img/gallery/kheer.jpg",
+      "ingredients": [
+        "1/2 cup rice",
+        "1 liter milk",
+        "1/2 cup sugar",
+        "1/4 tsp cardamom powder",
+        "A few saffron strands",
+        "Chopped nuts for garnish"
+      ],
+      "steps": [
+        "Cook rice in milk on low heat until soft.",
+        "Add sugar, cardamom, and saffron and simmer for 10 minutes.",
+        "Garnish with nuts and serve warm or chilled."
+      ],
+      "id": "4c1c"
+    },
+    {
+      "title": "Apricot Delight",
+      "category": "Desserts",
+      "description": "A rich and tangy dessert made with apricots and cream.",
+      "image": "/img/gallery/delite.jpg",
+      "ingredients": [
+        "1 cup dried apricots",
+        "1/2 cup sugar",
+        "1/4 cup fresh cream",
+        "Chopped nuts for garnish"
+      ],
+      "steps": [
+        "Soak apricots in water overnight and blend into a smooth paste.",
+        "Cook the apricot paste with sugar until thickened.",
+        "Layer with fresh cream and garnish with nuts before serving."
+      ],
+      "id": "5d3a"
+    },
+    {
+      "title": "Ice Creams",
+      "category": "Desserts",
+      "description": "Homemade creamy ice creams in various flavors.",
+      "image": "/img/gallery/icecream.jpg",
+      "ingredients": [
+        "2 cups milk",
+        "1 cup heavy cream",
+        "1/2 cup sugar",
+        "Flavoring of choice (vanilla, chocolate, mango, etc.)"
+      ],
+      "steps": [
+        "Heat milk and sugar until dissolved.",
+        "Mix in heavy cream and your chosen flavoring.",
+        "Freeze the mixture, stirring every hour for a creamy texture.",
+        "Serve chilled."
+      ],
+      "id": "043d"
+    },
+    {
+      "id": "916c",
+      "title": "demo",
+      "description": "demo",
+      "category": "Breakfast",
+      "ingredients": [
+        "demo"
+      ],
+      "steps": [
+        "demo"
+      ],
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "d29e",
+      "title": "demo1",
+      "description": "demo1",
+      "category": "Breakfast",
+      "ingredients": [
+        "demo1"
+      ],
+      "steps": [
+        "demo1"
+      ],
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+}
