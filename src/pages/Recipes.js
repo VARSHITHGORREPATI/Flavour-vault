@@ -17,10 +17,10 @@ export default function Recipes() {
         const fetchRecipes = async () => {
             try {
                 setLoading(true);
-                const response = await fetch("http://192.168.0.162:3001/recipes");
+                const response = await fetch("https://raw.githubusercontent.com/VARSHITHGORREPATI/FlavourVault_Food-Recipe-App/master/details.json");
                 if (!response.ok) throw new Error("Failed to fetch recipes");
                 const data = await response.json();
-                setRecipes(data);
+                setRecipes(data.recipes);
             } catch (err) {
                 setError(err.message);
             } finally {

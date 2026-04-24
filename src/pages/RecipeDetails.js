@@ -15,7 +15,7 @@ export default function RecipeDetails() {
         const fetchRecipe = async () => {
             try {
                 console.log("Fetching recipes from the API...");
-                const response = await fetch("http://192.168.0.162:3001/recipes");
+                const response = await fetch("https://raw.githubusercontent.com/VARSHITHGORREPATI/FlavourVault_Food-Recipe-App/master/details.json");
                 console.log("Response status:", response.status);
 
                 if (!response.ok) throw new Error("Failed to fetch recipes");
@@ -23,7 +23,7 @@ export default function RecipeDetails() {
                 const data = await response.json();
                 console.log("Fetched data:", data);
 
-                const foundRecipe = data.find(
+                const foundRecipe = data.recipes.find(
                     (r) => r.title.toLowerCase() === decodeURIComponent(title).toLowerCase()
                 );
 
