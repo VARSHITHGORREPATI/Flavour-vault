@@ -12,4 +12,4 @@ COPY public ./public
 
 EXPOSE 3005
 
-CMD ["npx", "json-server", "--host", "0.0.0.0", "--port", "3005", "details.json"]
+CMD ["sh", "-c", "npx json-server --host 0.0.0.0 --port ${PORT:-3005} details.json"]
