@@ -25,7 +25,7 @@ export default function Navbar() {
     return (
         <div className="navbar container">
             <Link to="/" className="logo">
-                <img src="/img/gallery/logo1.jpg" alt="Logo" className="logo-img" />
+                <img src="https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/logo1.jpg" alt="Logo" className="logo-img" />
             </Link>
             <div className="nav-links">
                 {links.map((link) => (

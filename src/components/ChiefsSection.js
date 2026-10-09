@@ -4,23 +4,23 @@ export default function ChiefsSection(){
     const chiefs = [
         {
             name: "Gorrepati Varshith",
-            img: "/img/top-chiefs/img_1.jpg",
+            img: "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/top-chiefs/img_1.jpg",
         },
         {
             name: "Rakesh Kumar",
-            img: "/img/top-chiefs/img_2.jpg",
+            img: "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/top-chiefs/img_2.jpg",
         },
         {
             name: "Hema Swaroop",
-            img: "/img/top-chiefs/img_3.jpg",
+            img: "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/top-chiefs/img_3.jpg",
         },
         {
             name: "Aniketh dilip",
-            img: "/img/top-chiefs/img_4.jpg",
+            img: "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/top-chiefs/img_4.jpg",
         },
         {
             name: "Kuppala Balaji",
-            img: "/img/top-chiefs/img_5.jpg",
+            img: "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/top-chiefs/img_5.jpg",
         }
     ]
     return (

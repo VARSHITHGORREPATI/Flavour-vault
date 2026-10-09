@@ -28,7 +28,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "upload:cloudinary": "node scripts/upload-to-cloudinary.js"
   },
   "eslintConfig": {
     "extends": [
@@ -49,6 +50,8 @@
     ]
   },
   "devDependencies": {
+    "cloudinary": "^2.11.0",
+    "dotenv": "^18.0.6",
     "gh-pages": "^6.3.0"
   }
 }

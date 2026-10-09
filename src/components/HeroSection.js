@@ -2,18 +2,18 @@ import { useNavigate } from "react-router-dom";
 import CustomImage from "./CustomImage";
 
 export default function HeroSection() {
-    const navigate = useNavigate(); // Initialize the navigate function
+    const navigate = useNavigate();
 
     const images = [
-        "/img/gallery/img_1.jpg",
-        "/img/gallery/img_2.jpg",
-        "/img/gallery/img_3.jpg",
-        "/img/gallery/img_4.jpg",
-        "/img/gallery/img_5.jpg",
-        "/img/gallery/img_6.jpg",
-        "/img/gallery/img_7.jpg",
-        "/img/gallery/img_8.jpg",
-        "/img/gallery/img_9.jpg"
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_1.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_2.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_3.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_4.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_5.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_6.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_7.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_8.jpg",
+        "https://res.cloudinary.com/dckr64n9u/image/upload/flavourvault/gallery/img_9.jpg"
     ];
 
     const handleExploreClick = () => {

@@ -1,16 +1,17 @@
 import { useNavigate } from 'react-router-dom';
+import { CLOUDINARY_VIDEO_URL } from '../config';
 
 export default function Home() {
-    const navigate = useNavigate(); // Hook to navigate programmatically
+    const navigate = useNavigate();
 
     const handleExploreClick = () => {
-        navigate('/recipes'); // Navigate to the Recipes page
+        navigate('/recipes');
     };
 
     return (
         <div className="home-section">
             <video className="background-video" autoPlay loop muted>
-                <source src="/img/gallery/foodvideo.mp4" type="video/mp4" />
+                <source src={CLOUDINARY_VIDEO_URL} type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
 
