@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: flavourvault-backend
+    ports:
+      - "3005:3005"
+    volumes:
+      - ./details.json:/app/details.json
+    restart: unless-stopped
+    networks:
+      - flavourvault-net
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: flavourvault-frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+    networks:
+      - flavourvault-net
+
+networks:
+  flavourvault-net:
+    driver: bridge

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { FaArrowLeft, FaPrint } from "react-icons/fa";
 import "../styles/Recipes.css";
+import { API_URL } from "../config";
 
 export default function RecipeDetails() {
     const { title } = useParams(); // Get recipe title from the URL
@@ -15,7 +16,7 @@ export default function RecipeDetails() {
         const fetchRecipe = async () => {
             try {
                 console.log("Fetching recipes from the API...");
-                const response = await fetch("https://raw.githubusercontent.com/VARSHITHGORREPATI/FlavourVault_Food-Recipe-App/master/details.json");
+                const response = await fetch(API_URL);
                 console.log("Response status:", response.status);
 
                 if (!response.ok) throw new Error("Failed to fetch recipes");
@@ -23,7 +24,8 @@ export default function RecipeDetails() {
                 const data = await response.json();
                 console.log("Fetched data:", data);
 
-                const foundRecipe = data.recipes.find(
+                const recipeList = Array.isArray(data) ? data : (data.recipes || []);
+                const foundRecipe = recipeList.find(
                     (r) => r.title.toLowerCase() === decodeURIComponent(title).toLowerCase()
                 );
 

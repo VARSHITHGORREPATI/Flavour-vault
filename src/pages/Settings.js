@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import "../styles/Recipes.css";
+import { API_URL } from "../config";
 
 
 export default function Settings() {
@@ -56,7 +57,7 @@ export default function Settings() {
         };
 
         try {
-            const response = await fetch("http://192.168.0.162:3001/recipes", {
+            const response = await fetch(API_URL, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify(newRecipe),

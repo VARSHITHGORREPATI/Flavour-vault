@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { FaSearch } from "react-icons/fa";
 import RecipeCard from "../components/RecipeCard";
 import "../styles/Recipes.css";
+import { API_URL } from "../config";
 
 export default function Recipes() {
     const [recipes, setRecipes] = useState([]);
@@ -17,10 +18,10 @@ export default function Recipes() {
         const fetchRecipes = async () => {
             try {
                 setLoading(true);
-                const response = await fetch("https://raw.githubusercontent.com/VARSHITHGORREPATI/FlavourVault_Food-Recipe-App/master/details.json");
+                const response = await fetch(API_URL);
                 if (!response.ok) throw new Error("Failed to fetch recipes");
                 const data = await response.json();
-                setRecipes(data.recipes);
+                setRecipes(Array.isArray(data) ? data : (data.recipes || []));
             } catch (err) {
                 setError(err.message);
             } finally {
