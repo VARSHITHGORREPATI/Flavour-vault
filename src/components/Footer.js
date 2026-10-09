@@ -9,7 +9,7 @@ export default function Footer(){
             <div className="footer-section">
                 <p className="title">Contact Us</p>
                 <p>flavourvault@gmail.com</p>
-                <p>+91 9398604779</p>
+                <p>+91 9xxxxxxxx9</p>
                 <p>Mangalgiri</p>
             </div>
             <div className="footer-section">
