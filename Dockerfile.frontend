@@ -5,6 +5,9 @@ WORKDIR /app
 
 ENV NODE_OPTIONS=--openssl-legacy-provider
 
+# Disable treating warnings as errors during CI build
+ENV CI=false
+
 # Accept build-time API URL (set this in Render as a Build Environment Variable)
 ARG REACT_APP_API_URL
 ENV REACT_APP_API_URL=$REACT_APP_API_URL
